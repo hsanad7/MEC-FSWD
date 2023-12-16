@@ -1,0 +1,30 @@
+body {
+  margin-right: 3em;
+  margin-left: 3em;
+}
+.img {
+  margin-top: 10px;
+}
+
+.intro {
+  font-size: medium;
+  font-style: italic;
+  margin-top: 1em;
+}
+.infoTitle {
+  font-weight: 700;
+}
+
+.info {
+  font-weight: normal;
+}
+
+ul {
+  display: block;
+  list-style-type: none;
+  margin-top: 2em;
+  margin-bottom: 4 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
